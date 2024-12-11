@@ -31,6 +31,10 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at the 
 **Tech Stack**: Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  
 **Description**: A job search assistant featuring an integrated calendar, efficient data handling, and CI/CD automation for smooth deployments.  
 
+### [CornFlix 🍿🎬](https://github.com/divyanshu-nagpal/CornFlix)  
+**Tech Stack**: React, CSS, HTML, Movie Database API  
+**Description**: An interactive movie discovery platform that enhances your cinematic experience by allowing users to search for movies, rate them, and manage their watched list. CornFlix features a responsive, mobile-friendly design and interactive elements for a seamless user experience.
+
 ---
 
 ## 🏆 Achievements

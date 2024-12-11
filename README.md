@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at the 
 
 ### [GeoVista](https://github.com/divyanshu-nagpal/GeoVista)  
 **Tech Stack**: React, Firebase, Gemini API, Google Places API, Tailwind CSS, Three.js  
-**Description**: An AI-powered travel planner that creates personalized itineraries with automated location identification, real-time updates, and a responsive UI.  
+**Description**: An intelligent trip-planning application that simplifies travel planning with dynamic itinerary creation, image-based location search, and immersive 3D visualizations. GeoVista ensures a seamless and personalized travel experience with secure cloud storage and real-time updates.
 
 ### [JobDash](https://github.com/divyanshu-nagpal/JobDash)  
 **Tech Stack**: Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  

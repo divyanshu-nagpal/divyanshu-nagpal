@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at the 
 
 📧 [Email Me](mailto:divyanshunagpal01@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/)  
-💻 [Portfolio](https://github.com/divyanshunagpal)  
+💻 [Portfolio](https://github.com/divyanshu-nagpal/divyanshu-nagpal)  
 
 ---
 

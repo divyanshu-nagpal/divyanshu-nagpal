@@ -23,6 +23,11 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at the 
 
 ## 🚀 Projects
 
+
+### [Promptly](https://github.com/divyanshu-nagpal/Promptly)  
+Tech Stack: MongoDB, Express, React, Node.js (MERN),
+Description: A vibrant community-driven platform for sharing and discovering creative prompts. Promptly features dynamic user interactions, personalized profiles, and robust prompt categorization, fostering creativity and collaboration. Its sleek, responsive design ensures a seamless user experience across devices.
+
 ### [GeoVista](https://github.com/divyanshu-nagpal/GeoVista)  
 **Tech Stack**: React, Firebase, Gemini API, Google Places API, Tailwind CSS, Three.js  
 **Description**: An intelligent trip-planning application that simplifies travel planning with dynamic itinerary creation, image-based location search, and immersive 3D visualizations. GeoVista ensures a seamless and personalized travel experience with secure cloud storage and real-time updates.

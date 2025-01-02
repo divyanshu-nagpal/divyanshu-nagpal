@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at the 
 
 ### [JobDash](https://github.com/divyanshu-nagpal/JobDash)  
 **Tech Stack**: Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS, JavaScript  
-**Description**: A job search assistant featuring an integrated calendar, efficient data handling, and CI/CD automation for smooth deployments.  
+**Description**: JobDash is a powerful tool to help you track your job applications and stay on top of your career goals. It provides real-time reminders to keep you informed and organized throughout your job-hunting journey.
 
 ### [CornFlix](https://github.com/divyanshu-nagpal/CornFlix)  
 **Tech Stack**: React, CSS, HTML, Movie Database API  

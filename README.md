@@ -69,7 +69,7 @@
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/divyanshu_nagpal?theme=dark&font=Fira+Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/divyanshunagpal_2004?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
 
 ---

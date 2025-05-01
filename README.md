@@ -72,7 +72,7 @@ Click any badge below to learn more!
 ---
 
 
-### 🔗 [CornFlix](https://github.com/divyanshu-nagpal/CornFlix)
+### 📌 [CornFlix](https://github.com/divyanshu-nagpal/CornFlix)
 > 🎬 Discover and rate movies with a clean, cinematic UI.
 
 **Tech Stack:** React, CSS, Movie Database API  

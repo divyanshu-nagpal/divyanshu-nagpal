@@ -1,65 +1,103 @@
-# Hi there, I'm Divyanshu Nagpal! 👋
-
-Welcome to my GitHub profile! I'm a Computer Science Engineering student at the National Institute of Engineering, Mysore, graduating in 2026. I'm passionate about programming, problem-solving, and building impactful software solutions. Here's a bit more about me and my current work!
+<!-- Typing Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Divyanshu+Nagpal+%F0%9F%91%8B;CS+Student+at+NIE+Mysore+%7C+Full+Stack+Dev+%7C+ML+Explorer;Passionate+about+Code%2C+Creativity+%26+Building+Impactful+Projects" alt="Typing animation" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Education**  
-- B.E. in Computer Science and Engineering, National Institute of Engineering, Mysore (2022-2026)  
-
-🌱 **Currently Learning**  
-- Advanced React  
-- Flask  
-- CI/CD pipelines with Jenkins and Docker  
-
-💻 **Skills**  
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS  
-- **Frameworks & Tools**: React, Flask, Firebase, Git, VS Code  
-- **Competencies**: Data Structures and Algorithms, SQL, Operating Systems, Object-Oriented Programming  
+- 🎓 Pursuing: B.E. in Computer Science & Engineering @ NIE Mysore (2022–2026)
+- 🌱 Currently Learning: React ⚛️ | Flask 🐍 | CI/CD with Jenkins & Docker ⚙️
+- 🧠 Focus Areas: Full-Stack Development, Machine Learning, and Clean UI/UX
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,react,flask,tailwind,firebase,postgres,docker,jenkins,git,github,vscode,threejs" />
+</p>
 
-### [Promptly](https://github.com/divyanshu-nagpal/Promptly)   
-**Tech Stack**: MongoDB, Express, React, Node.js, Tailwind CSS  
-**Description**: A vibrant community-driven platform for sharing and discovering creative prompts. Promptly features dynamic user interactions, personalized profiles, and robust prompt categorization, fostering creativity and collaboration. Its sleek, responsive design ensures a seamless user experience across devices.
+---
 
-### [GeoVista](https://github.com/divyanshu-nagpal/GeoVista)  
-**Tech Stack**: React, Firebase, Gemini API, Google Places API, Tailwind CSS, Three.js  
-**Description**: An intelligent trip-planning application that simplifies travel planning with dynamic itinerary creation, image-based location search, and immersive 3D visualizations. GeoVista ensures a seamless and personalized travel experience with secure cloud storage and real-time updates.
+## 💼 Featured Projects
 
-### [JobDash](https://github.com/divyanshu-nagpal/JobDash)  
-**Tech Stack**: Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS, JavaScript  
-**Description**: JobDash is a powerful tool to help you track your job applications and stay on top of your career goals. It provides real-time reminders to keep you informed and organized throughout your job-hunting journey.
+### 🔗 [Promptly](https://github.com/divyanshu-nagpal/Promptly)
+> ✨ A dynamic platform for sharing and discovering AI prompts.  
+> 📚 Community-driven | ✍️ Personalized profiles | 📱 Fully responsive
 
-### [CornFlix](https://github.com/divyanshu-nagpal/CornFlix)  
-**Tech Stack**: React, CSS, HTML, Movie Database API  
-**Description**: An interactive movie discovery platform that enhances your cinematic experience by allowing users to search for movies, rate them, and manage their watched list. CornFlix features a responsive, mobile-friendly design and interactive elements for a seamless user experience.
+**Tech Stack:** MongoDB, Express, React, Node.js, Tailwind CSS  
+**Status:** ✅ Complete
+
+---
+
+### 🔗 [GeoVista](https://github.com/divyanshu-nagpal/GeoVista)
+> ✈️ AI-powered travel planner with immersive 3D experiences.  
+> 🗺️ Plan smart | 🔍 Image-based search | 📡 Real-time updates
+
+**Tech Stack:** React, Firebase, Gemini API, Google Places API, Tailwind, Three.js  
+**Status:** ✅ Complete
+
+---
+
+### 🔗 [JobDash](https://github.com/divyanshu-nagpal/JobDash)
+> 🎯 A powerful job tracker to streamline your job applications and reminders.
+
+**Tech Stack:** Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  
+**Status:** ✅ Complete
+
+---
+
+### 🔗 [CornFlix](https://github.com/divyanshu-nagpal/CornFlix)
+> 🎬 Discover and rate movies with a clean, cinematic UI.
+
+**Tech Stack:** React, CSS, Movie Database API  
+**Status:** ✅ Complete
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-nagpal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-nagpal&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/divyanshu_nagpal?theme=dark&font=Fira+Code&ext=heatmap" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- **Ideathon Winner**: Led a successful proposal for a wildlife deterrence system, earning top honors and investor funding.  
-- **Community Engagement**: Provided training for government school students in collaboration with Youth For Seva's annual meet.  
+- 🥇 **Ideathon Winner** – Designed and pitched a wildlife deterrence system that earned investor funding.
+- 👨‍🏫 **Social Impact** – Trained government school students with Youth For Seva (CHIGURU 2024).
+- 💡 Consistent contributor to open-source and hackathon projects.
 
 ---
 
-## 🌐 Let's Connect!
+## 🔗 Let's Connect
 
-📧 [Email Me](mailto:divyanshunagpal01@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/)  
-💻 [Portfolio](https://github.com/divyanshu-nagpal/divyanshu-nagpal)  
-
----
-
-### Interests  
-Nature Photography 🌿 | Chess ♟️ | Traveling ✈️ | Entrepreneurship 💼 | Rubik’s Cube Enthusiast 🔴🟡🟢  
+<p align="center">
+  <a href="mailto:divyanshunagpal01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/divyanshu-nagpal-690a2b258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/divyanshu-nagpal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects and connect with me for collaboration or discussions.
+## 🌟 Interests  
+Nature Photography 📸 | Chess ♟️ | Traveling 🌍 | Entrepreneurship 🚀 | Rubik’s Cube 🧩  
+
+---
+
+> ⚡ *“Turning code into impact and ideas into innovation.”*  
+> Thanks for visiting! Feel free to connect or collaborate!
+
+---

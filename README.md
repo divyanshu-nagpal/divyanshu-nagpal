@@ -44,7 +44,7 @@ Click any badge below to learn more!
 
 ## 💼 Featured Projects
 
-### 🔗 [Promptly](https://github.com/divyanshu-nagpal/Promptly)
+### 📌 [Promptly](https://github.com/divyanshu-nagpal/Promptly)
 > ✨ A dynamic platform for sharing and discovering AI prompts.  
 > 📚 Community-driven | ✍️ Personalized profiles | 📱 Fully responsive
 
@@ -53,7 +53,16 @@ Click any badge below to learn more!
 
 ---
 
-### 🔗 [GeoVista](https://github.com/divyanshu-nagpal/GeoVista)
+### 📌 [JobDash](https://github.com/divyanshu-nagpal/JobDash)
+> 🎯 A powerful job tracker to streamline your job applications and reminders.
+📅 Calendar integration | 🗂️ Status tracker | ⏰ Real-time reminders
+
+**Tech Stack:** Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  
+**Status:** ✅ Complete
+
+---
+
+### 📌 [GeoVista](https://github.com/divyanshu-nagpal/GeoVista)
 > ✈️ AI-powered travel planner with immersive 3D experiences.  
 > 🗺️ Plan smart | 🔍 Image-based search | 📡 Real-time updates
 
@@ -62,13 +71,6 @@ Click any badge below to learn more!
 
 ---
 
-### 🔗 [JobDash](https://github.com/divyanshu-nagpal/JobDash)
-> 🎯 A powerful job tracker to streamline your job applications and reminders.
-
-**Tech Stack:** Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  
-**Status:** ✅ Complete
-
----
 
 ### 🔗 [CornFlix](https://github.com/divyanshu-nagpal/CornFlix)
 > 🎬 Discover and rate movies with a clean, cinematic UI.

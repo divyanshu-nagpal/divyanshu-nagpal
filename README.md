@@ -55,7 +55,7 @@ Click any badge below to learn more!
 
 ### 📌 [JobDash](https://github.com/divyanshu-nagpal/JobDash)
 > 🎯 A powerful job tracker to streamline your job applications and reminders.
-📅 Calendar integration | 🗂️ Status tracker | ⏰ Real-time reminders
+> 📅 Calendar integration | 🗂️ Status tracker | ⏰ Real-time reminders
 
 **Tech Stack:** Flask, PostgreSQL, Docker, Jenkins, Tailwind CSS  
 **Status:** ✅ Complete

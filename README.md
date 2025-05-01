@@ -1,6 +1,6 @@
 <!-- Typing Animation Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Divyanshu+Nagpal+%F0%9F%91%8B;CS+Student+at+NIE+Mysore+%7C+Full+Stack+Dev+%7C+ML+Explorer;Passionate+about+Code%2C+Creativity+%26+Building+Impactful+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Divyanshu+Nagpal+%F0%9F%91%8B;CSE+Student+%40+NIE+Mysore+%7C+Full+Stack+Developer;Exploring+Machine+Learning+%7C+Building+Impactful+Projects" alt="Typing animation" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/divyanshunagpal_2004?theme=dark&font=Fira+Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/divyanshunagpal_2004?theme=dark&font=Fira+Code" />
 </p>
 
 ---

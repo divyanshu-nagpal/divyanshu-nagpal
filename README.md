@@ -8,8 +8,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing: B.E. in Computer Science & Engineering @ NIE Mysore (2022–2026)
-- 🌱 Currently Learning: React ⚛️ | Flask 🐍 | CI/CD with Jenkins & Docker ⚙️
-- 🧠 Focus Areas: Full-Stack Development, Machine Learning, and Clean UI/UX
+- 🌱 Currently Learning: React, Firebase, MERN Stack, Agile Software Development
+- 🧠 Focus Areas: Full-Stack Development, Clean UI/UX, and Building Impactful Projects
 
 ---
 
@@ -36,9 +36,8 @@ Click any badge below to learn more!
 ## 🎯 Goals
 
 - 🚀 Build scalable and secure full-stack applications  
-- 🧠 Grow in Machine Learning and AI  
-- 🔧 Contribute more to open-source and collaborative projects  
-- 📚 Crack 300+ LeetCode problems  
+- 🎨 Deliver clean, responsive, and user-friendly interfaces  
+- 🔧 Contribute more to open-source and collaborative projects 
 
 ---
 

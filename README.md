@@ -23,7 +23,6 @@ Click any badge below to learn more!
 <!-- Tools -->
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a> <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 
-<!-- Core CS Skills (Badge styled where possible) --> <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3776AB?style=for-the-badge&logo=codewars&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating%20Systems-556B2F?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-1E90FF?style=for-the-badge"/> </p>
 ---
 
 ## 🎯 Goals
